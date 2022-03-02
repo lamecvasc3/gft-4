@@ -1,0 +1,16 @@
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.exe
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.deps.json
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.runtimeconfig.json
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.runtimeconfig.dev.json
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.dll
+C:\dev\DIO\GFT\bin\Debug\net5.0\ref\GFT.dll
+C:\dev\DIO\GFT\bin\Debug\net5.0\GFT.pdb
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.csproj.AssemblyReference.cache
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.AssemblyInfoInputs.cache
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.AssemblyInfo.cs
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.csproj.CoreCompileInputs.cache
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.dll
+C:\dev\DIO\GFT\obj\Debug\net5.0\ref\GFT.dll
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.pdb
+C:\dev\DIO\GFT\obj\Debug\net5.0\GFT.genruntimeconfig.cache
